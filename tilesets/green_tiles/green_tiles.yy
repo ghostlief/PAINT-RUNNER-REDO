@@ -23,8 +23,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_redTiles",
-    "path":"sprites/spr_redTiles/spr_redTiles.yy",
+    "name":"spr_greenTiles",
+    "path":"sprites/spr_greenTiles/spr_greenTiles.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
