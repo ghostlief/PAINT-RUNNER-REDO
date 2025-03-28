@@ -40,7 +40,8 @@
     {"id":{"name":"obj_paint","path":"objects/obj_paint/obj_paint.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
     {"id":{"name":"spr_greenTiles","path":"sprites/spr_greenTiles/spr_greenTiles.yy",},},
     {"id":{"name":"spr_keys","path":"sprites/spr_keys/spr_keys.yy",},},
     {"id":{"name":"spr_paint","path":"sprites/spr_paint/spr_paint.yy",},},
@@ -56,7 +57,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
+    {"roomId":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
