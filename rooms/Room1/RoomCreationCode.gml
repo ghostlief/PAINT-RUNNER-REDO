@@ -13,3 +13,8 @@ var green = instance_create_layer(399, 396, "Instances", obj_paint,
 {
     image_index : 1
 });
+
+with (obj_game)
+{
+	move_towards_point(obj_player.x, obj_player.y, 5);	
+}

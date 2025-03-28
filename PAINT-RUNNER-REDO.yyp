@@ -34,6 +34,7 @@
   },
   "name":"PAINT-RUNNER-REDO",
   "resources":[
+    {"id":{"name":"game_font","path":"fonts/game_font/game_font.yy",},},
     {"id":{"name":"obj_game","path":"objects/obj_game/obj_game.yy",},},
     {"id":{"name":"obj_keys","path":"objects/obj_keys/obj_keys.yy",},},
     {"id":{"name":"obj_paint","path":"objects/obj_paint/obj_paint.yy",},},
